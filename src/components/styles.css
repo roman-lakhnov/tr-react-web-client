@@ -1,0 +1,15 @@
+/* styles.css */
+
+.data-form-container {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  margin-top: 50px;
+  background-color: white; /* Optional: Set a background color */
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
